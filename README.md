@@ -1,5 +1,5 @@
 # faster-rcnn_vgg16
-Faster R-CNN use RoIAlign and VGG16
+A implementation of Faster R-CNN with RoIAlign and VGG16
 
 reference from 'https://github.com/chenyuntc/simple-faster-rcnn-pytorch'
 
